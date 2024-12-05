@@ -35,3 +35,16 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.terraform.lock.hcl
+tfplan.out
+pyconfig.json
+inventory.ini
+inventory.zip
+ec2user.pem
+ec2user.pub
+.DS_Store
+
